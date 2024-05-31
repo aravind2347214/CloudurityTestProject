@@ -12,6 +12,11 @@ The Alumini App project aims to create a comprehensive web application for manag
 ## View Website Demo
 A video is attached in this Repository 
 
+
+https://github.com/aravind2347214/CloudurityTestProject/assets/141466618/4f5e3495-f2f6-4942-b8f9-924ee130c9d3
+
+
+
 ## Search Functionality
 The search functionality allows users to search for alumni based on their name, year of graduation, and department. This feature enhances user experience by providing easy access to alumni information.
 
