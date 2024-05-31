@@ -9,6 +9,9 @@ The Alumini App project aims to create a comprehensive web application for manag
 - Admin Panel
 - Search Page
 
+## View Website Demo
+A video is attached in this Repository 
+
 ## Search Functionality
 The search functionality allows users to search for alumni based on their name, year of graduation, and department. This feature enhances user experience by providing easy access to alumni information.
 
