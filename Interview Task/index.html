@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    let timer;                 
+    function myFunction() {
+            const input = document.getElementById("textbox");
+           
+            // Old timer reset
+            clearTimeout(timer);
+
+            // Starting a new 5 seconds 
+            timer = setTimeout(() => {
+                console.log('Request sent with data "',input.value,'"');
+            }, 3000);
+        }
+</script>
+<body>
+
+    <input type="text" id="textbox" oninput="myFunction()">
+    
+</body>
+</html>
